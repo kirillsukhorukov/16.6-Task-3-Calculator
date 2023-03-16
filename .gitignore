@@ -1,0 +1,10 @@
+﻿################################################################################
+# Данный GITIGNORE-файл был автоматически создан Microsoft(R) Visual Studio.
+################################################################################
+
+/x64/Debug
+/16.6-Task-3-Calculator.vcxproj.user
+/16.6-Task-3-Calculator.vcxproj.filters
+/16.6-Task-3-Calculator.vcxproj
+/16.6-Task-3-Calculator.sln
+/.vs/16.6-Task-3-Calculator
