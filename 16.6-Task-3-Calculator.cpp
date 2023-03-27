@@ -6,11 +6,13 @@ using namespace std;
 int main()
 {
     cout << "-----Calculator-----" << endl;
-    //Ввод строки с действием
+    
     string buffer;
+    
     //Цикл работы калькулятора
     while (true)
     {
+        //Ввод строки с действием
         cout << "Enter the operation (+-*/) with two numbers: ";
         cin >> buffer;
         //Организация выхода из цикла
